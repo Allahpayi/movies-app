@@ -1,0 +1,19 @@
+h1 {
+  margin: 0 !important;
+}
+.banner_img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+.flex {
+  align-items: flex-start !important;
+  justify-content: space-between;
+  width: 75%;
+}
+.whatch_list {
+  svg {
+    color: #ec255a;
+    font-size: 26px;
+  }
+}

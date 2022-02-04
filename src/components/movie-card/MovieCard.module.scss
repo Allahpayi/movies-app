@@ -1,0 +1,17 @@
+.cart_content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding-top: 10px;
+}
+
+.whatch_list {
+  svg {
+    color: #ec255a;
+    font-size: 26px;
+    float: right;
+  }
+}
+.rating {
+  color: #ffc600;
+}
